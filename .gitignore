@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Robot Framework reports
+results/
+output.xml
+log.html
+report.html
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
